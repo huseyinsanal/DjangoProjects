@@ -5,3 +5,7 @@
     width: 50%;
     height: 50%;
 }
+p{
+    border: 5px solid black;
+    margin-top: 20px;
+}
